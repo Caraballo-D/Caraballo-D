@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caraballo-D
+- 👋 Hi, I’m Joe Caraballo
 - 👀 I’m interested in .Net Azure development
 - 🌱 I’m currently learning Azure Cognitive Services
 - 💞️ I’m looking to collaborate!
